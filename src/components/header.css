@@ -1,0 +1,14 @@
+header {
+	height: 100px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	background: linear-gradient(to right, #1488cc, #2b32b2);
+	color: white;
+	font-size: 30px;
+}
+
+header > img {
+	height: 90px;
+	align-self: center;
+}
